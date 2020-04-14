@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e14680db-310f-4594-9473-13d2e0286c3a}">
+		<property name="assetPath">
+			<value>EnemyAttack/Enemy 1 (light attack).mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80979591836734699</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c52db6db-7f00-4c5c-91e0-03259fa0234b}</destination>
+		</relationship>
+	</object>
+</objects>

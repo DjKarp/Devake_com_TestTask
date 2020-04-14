@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{171ec79b-6cdd-40b8-acbe-11d6cebf1238}">
+		<property name="name">
+			<value>ChangeTrack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ca907443-9287-4f6a-8bfc-924ebdbbd4d8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d2d1cf2f-8225-4206-bfa4-958a2a1fef84}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d2d1cf2f-8225-4206-bfa4-958a2a1fef84}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

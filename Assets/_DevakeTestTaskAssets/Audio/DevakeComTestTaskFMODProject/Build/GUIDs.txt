@@ -1,0 +1,18 @@
+{472ada31-9379-4fb5-9417-9670fa7798d0} bank:/FX
+{dca38ff7-4275-4a0f-a844-ce0f6ade2b0a} bank:/Master
+{44beaf23-330e-064d-2e0d-44f19b2d2d92} bank:/Master.strings
+{8f6e56ed-b5b1-4c88-9b05-7fdb27513d10} bus:/
+{4d2998cb-8614-40f3-a1c1-122571adbec2} bus:/Reverb
+{2ae7fc10-9cef-4d53-b592-83beb78faf2f} event:/Enemy/EnemyAttack
+{33f59f2b-ef40-4fab-aae0-d9c7c92d2754} event:/Enemy/EnemyDamage
+{09ee89b4-0e22-492e-aaa7-022f603b44fe} event:/Enemy/EnemyDie
+{3533ad4f-82da-4458-9cbb-ec126f62d79f} event:/Enemy/EnemyWalkVoiced
+{4663c555-ef23-4dab-8504-e9ea7dfb1901} event:/MusicGame
+{3bbaeee0-2bc0-46fb-86dc-af5ce65fe0a7} event:/PSYCHO
+{b56d9ad4-8bad-4b58-be85-629b2aa2f06c} event:/PickBox
+{b5868f9a-01e1-406a-ac60-42a98d6b6cf3} event:/Player/PlayerDamage
+{276a45d7-6350-459a-a56d-e41e833d03b6} event:/Player/PlayerShoot
+{0dca0402-8c35-4323-8d44-97e5bb20e001} event:/Player/PlayerShowNewBullet
+{d2d1cf2f-8225-4206-bfa4-958a2a1fef84} parameter:/Parameter 1
+{7928e720-f3ba-431c-b156-45f6777a8a6b} vca:/FX
+{aa8b265f-6e75-4cd2-84db-21271ab25d64} vca:/Music
